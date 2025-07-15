@@ -1,0 +1,46 @@
+
+=== REDDIT USER PERSONA ===
+Generated: 2025-07-15 11:21:42
+Username: Hungry-Move-6603
+Model Used: Llama 3 70B (Best Quality)
+Generator: Together.ai Persona Analyzer
+================================
+
+🎭 REDDIT USER PERSONA: Hungry-Move-6603
+===============================================
+
+**CORE INTERESTS & HOBBIES:**
+
+• Food and cooking (Evidence: "A menu easy to cook/process - healthy and quick." - ID: n2kh3aq)
+• Urban living and local culture (Evidence: "Reading Cafe / Reader' Club?" - ID: 1lzuq0r)
+• Productivity and weekend activities (Evidence: "Productive weekend activities in LKO?" - ID: 1lx50qm)
+
+**PERSONALITY CHARACTERISTICS:**
+
+• Observant and curious (Evidence: "What is the obsession peeps." - ID: 1lwyhny)
+• Sarcastic and humorous (Evidence: "Toh hum Noida or Ghaziabad se pahadio ko bhagana shuru karein fir? 😂 Bhukmari ajaegi" - ID: n2vkdpb)
+• Frustrated with bureaucratic systems (Evidence: "Cops keep a civ around to discuss bribes." - ID: n2y7g0s)
+
+**COMMUNICATION STYLE:**
+
+• Conversational and informal (Evidence: "Haha Delhi is hateable too but mostly those are HR or UP14 NCR vehicle." - ID: n2ilsqh)
+• Uses colloquial language and slang (Evidence: "Toh hum Noida or Ghaziabad se pahadio ko bhagana shuru karein fir? 😂 Bhukmari ajaegi" - ID: n2vkdpb)
+• Asks rhetorical questions (Evidence: "What is the obsession peeps." - ID: 1lwyhny)
+
+**VALUES & WORLDVIEW:**
+
+• Values transparency and honesty (Evidence: "If I or anyone recorded myself handing out money, it would be to a common man, not cops directly." - ID: n2ybup0)
+• Believes in the importance of healthy eating (Evidence: "I even purchased a 250 per meal tiffin and it had palm oil!!!" - ID: n2hvomb)
+• Has a negative view of corruption and bribery (Evidence: "Cops keep a civ around to discuss bribes." - ID: n2y7g0s)
+
+**REDDIT BEHAVIOR PATTERNS:**
+
+• Actively engages in discussions and comments on various topics (Evidence: 11 comments across 5 subreddits)
+• Asks questions and seeks opinions from others (Evidence: "Reading Cafe / Reader' Club?" - ID: 1lzuq0r)
+• Shares personal experiences and anecdotes (Evidence: "I was caught without helmet and license... I gave him 200rs and Cops let me go." - ID: n2ybup0)
+
+**COMMUNITY ENGAGEMENT:**
+
+• Participates in local community discussions (Evidence: 3 posts in r/lucknow)
+• Engages with users from different regions (Evidence: comments in r/nagpur and r/indiasocial)
+• Responds to comments and continues conversations (Evidence: multiple responses to comments in r/lucknow)
